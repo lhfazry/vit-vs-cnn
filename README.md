@@ -1,6 +1,7 @@
 
 # ViT vs CNN: The Clash of Architectures ⚔️
 
+[![YouTube](https://img.shields.io/badge/Watch-Webinar_Recording-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/qYBmiQ-TEWk)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hPQA-kpdvFgX-OdXR4Ext0s0cLxeAEHp?usp=sharing)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,6 +9,8 @@
 > **"Is Convolution Dead? The Rise of Attention in Computer Vision."**
 
 This repository contains the official slides, code, and resources for the webinar **"ViT vs CNN: The Clash of Architectures"**, hosted on **December 22, 2025** by Rumah Coding.
+
+📺 **Watch the full recording here:** [https://youtu.be/qYBmiQ-TEWk](https://youtu.be/qYBmiQ-TEWk)
 
 ## 📅 Webinar Overview
 
